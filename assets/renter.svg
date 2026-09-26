@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#dbe3dc"/>
+<circle cx="930" cy="145" r="150" fill="#f5f0e4"/>
+<rect x="250" y="140" width="620" height="420" rx="210" fill="#f7f4ea"/>
+<text x="600" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="52" fill="#56675d" letter-spacing="8">RENTERS</text>
+<text x="600" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="34" fill="#56675d" letter-spacing="5">NO-DAMAGE LIVING</text>
+</svg>
